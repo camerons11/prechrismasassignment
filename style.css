@@ -1,6 +1,6 @@
 
 body{
-    background-color: rgb(28, 55, 145);
+    background-color: rgb(255, 255, 255);
     border: solid yellowgreen;
   }
   
@@ -15,7 +15,7 @@ body{
   
   h1{
     outline: auto rgb(185, 44, 44) ;
-   color: azure;
+   color: rgb(9, 8, 119);
     text-align: center;
   }
   
